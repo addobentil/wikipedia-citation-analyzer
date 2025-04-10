@@ -1,4 +1,3 @@
-````markdown
 # Wikipedia Citation Analyzer (Bot Edition)
 
 ![Wikipedia Citation Analyzer](https://img.shields.io/badge/Wikipedia-Citation%20Analyzer-blue.svg)  
@@ -36,7 +35,6 @@ To use this tool, you’ll need:
 git clone https://github.com/addobentil/wikipedia-citation-analyzer.git
 cd wikipedia-citation-analyzer
 ```
-````
 
 ### 2. Open in Google Colab
 
